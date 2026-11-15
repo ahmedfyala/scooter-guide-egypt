@@ -13,7 +13,7 @@
 <a class="skip" href="#comparison">انتقل إلى المقارنة</a>
 <header class="header">
  <div class="container headrow"><a class="brand" href="#top">دليل السكوتر<span>مصر / دليل شراء مستقل</span></a>
- <nav aria-label="التنقل الرئيسي" id="mainnav"><a href="#quick">الخلاصة</a><a href="#parts-compare">مقارنة القطع</a><a href="#running">مصاريف التشغيل</a><a href="#buycompare">فرق الشراء</a><a href="#archive">البحث الكامل</a></nav>
+ <nav aria-label="التنقل الرئيسي" id="mainnav"><a href="#quick">الخلاصة</a><a href="#parts-compare">مقارنة القطع</a><a href="#running">التشغيل</a><a href="#service-compare">الزيت والصيانة</a><a href="#buycompare">فرق الشراء</a><a href="#archive">البحث الكامل</a></nav>
  <a class="navcta" href="#running">احسب مصاريفك <span aria-hidden="true">↙</span></a><button class="menubtn" aria-expanded="false" aria-controls="mainnav" id="menu">القائمة</button></div>
 </header>
 <main id="top"><div class="decisionapp">
@@ -21,7 +21,7 @@
  <div class="d-title"><div><span class="eyebrow">مقارنة شراء فعلية · مصر</span><h1>مين الأنسب ليك؟<br><span>قارن الفلوس قبل التفاصيل.</span></h1></div><p>أربع اختيارات، نفس البنود، جنب بعض.<br>الأسعار بالجنيه · رصد 15 نوفمبر 2026</p></div>
  <div class="d-recommend"><div><span class="d-kicker">الخلاصة حسب أولويتك</span><h2 id="d-rec-title">لو المصاريف أولويتك: ابدأ بالفيدل 3.</h2><p id="d-rec-copy"></p><a id="d-rec-source" target="_blank" rel="noopener">دليل الترشيح ↗</a></div><label>إيه الأهم عندك؟<select id="d-priority"><option value="budget">أقل شراء وقطع أساسية</option><option value="tech">تجهيزات وأمان أكثر</option><option value="jet">شكل Jet بسعر شراء أقل</option><option value="fuel">أقل استهلاك بنزين</option></select></label></div>
  <div class="d-models" id="d-models"></div>
- <p class="d-caption">الشراء: قائمة Volt شاملة الضريبة، دون تأكيد مخزون أو سنة. سلة القطع: سير + علبة فلتر كاملة + بطارية؛ ليست صيانة سنوية. <a href="#parts-compare">شوف التفاصيل ↓</a></p>
+ <p class="d-caption">الشراء: قائمة Volt شاملة الضريبة، دون تأكيد مخزون أو سنة. سلة القطع: سير + علبة فلتر كاملة + بطارية؛ ليست صيانة سنوية. <a href="#parts-compare">قارن القطع ↓</a> · <a href="#service-compare">مواعيد الزيت وتكلفته ↓</a></p>
 </section>
 
 <section class="d-section container" id="parts-compare">
@@ -31,6 +31,9 @@
  <div class="d-basket"><div><span class="d-kicker">سلة موحدة من 3 مكونات</span><h3>إيه الأغلى في الاستبدال؟</h3><p>نفس الوظائف، قطعة واحدة لكل بند.<br>المجموع لا يشمل تركيبًا ولا يحدد موعد تغيير.</p></div><div id="d-basket-results"></div></div>
  <details class="d-note"><summary>التوافق والتوفر: إيه اللي محتاج تأكيد؟</summary><p>الأسعار من أقسام الموديلات بكتالوج SYM Egypt، وليست فحص توافق مع رقم شاسيه. عرض السعر وزر الطلب لا يثبتان المخزون. «غير موثق» يعني لم نجد البند المطابق في البيانات، وليس غير موجود في السوق. اختلاف الأكواد بين الموديلات مقصود؛ المقارنة لوظيفة القطعة لا لتبادلها. <a href="https://www.symegypt.com/spare-parts" target="_blank" rel="noopener">الكتالوج الأصلي ↗</a></p></details>
  <a class="d-archive-link" href="#catalog">محتاج قطعة ثانية؟ افتح الكتالوج الكامل وابحث بالكود ←</a>
+ <div class="d-fresh-heading"><div><span class="eyebrow">مراجعة صفحات البيع · 15 نوفمبر 2026</span><h3>أسعار وصلنا لها… والتوفر جنبها.</h3><p>عروض متاجر مستقلة عن الكتالوج؛ التوافق بحسب وصف البائع، وليس فحصًا برقم الشاسيه.</p></div><button class="d-action" id="d-export-fresh">تنزيل الأسعار الجديدة CSV</button></div>
+ <div id="d-fresh-grid" class="d-fresh-grid"></div>
+ <details class="d-note"><summary>الـ15 قطعة الباقية بلا سعر: نتيجة المراجعة كاملة</summary><p>أُعيد فحص كل كود في الكتالوج يوم 15 نوفمبر 2026؛ ما زالت «استفسر عن السعر والتوافر عبر الواتساب». لم نضع أسعار قطع مشابهة مكانها. <a href="https://www.symegypt.com/spare-parts" target="_blank" rel="noopener">راجع الكتالوج ↗</a></p><div id="d-unpriced"></div><p>تيل EVO، غيار فلتره المنفصل وبطارية DD المطابقة لم تُحسم أيضًا في مقارنة البنود. ده نقص في الدليل المنشور، مش إثبات عدم وجودها في السوق.</p></details>
 </section>
 
 <section class="d-running" id="running"><div class="container">
@@ -40,9 +43,28 @@
  <div class="d-running-grid" id="d-running-grid"></div>
  <p class="d-running-summary" id="d-running-summary" role="status" aria-live="polite"></p>
  <details class="d-note"><summary>ليه ما قلتش مين الأوفر بنزين بشكل قاطع؟</summary><p>Wheels وIBYCO يعلنان لـEVO مقدار 40 كم/لتر، أي 2.5 لتر/100 كم بالحساب، دون منهج اختبار منشور. لم نجد قياسًا محليًا متجانسًا للنسخ الكاربراتير الثلاث. لا ننقل أرقام Fiddle II إلى Fiddle III ولا أرقام Jet الأمريكي EFI إلى المصري الكاربراتير. <a href="https://stores.wheels-scooters.com/product/sym-jet-14-evo-150cc/" target="_blank" rel="noopener">ادعاء EVO ↗</a></p><p>المعادلة: كم الشهر × لتر/100 كم ÷ 100 × سعر اللتر. إجمالي التشغيل يضيف ميزانية الصيانة المدخلة؛ السنة الأولى تضيف 12 شهر تشغيل لسعر قائمة الشراء، وتستبعد الترخيص والتأمين والإضافات والتمويل والإهلاك.</p></details>
- <div class="d-service"><h3>مواعيد الصيانة: المختصر المفيد</h3><div><p><b>فيدل 3:</b> مرجع قريب يذكر 300 ثم 1,000 كم؛ ليس جدول ضمان مصري مثبتًا. <a href="https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf" target="_blank" rel="noopener">الدليل ↗</a></p><p><b>EVO:</b> البائع يذكر 5,000 كم أو مرتين سنويًا؛ أكّد من مركز الخدمة. <a href="https://ibycoeg.com/ar/product/sym-jet-14-evo-150cc/" target="_blank" rel="noopener">الإعلان ↗</a></p><p><b>DD وJet X:</b> جدول محلي مطابق ومصنعية غير محسومين؛ ما حسبناش تكلفة صيانة من عندنا. <a href="https://www.symegypt.com/support" target="_blank" rel="noopener">دعم SYM ↗</a></p></div></div>
+ <a class="d-archive-link" href="#service-compare">افهم غيارات الزيت وباقي الصيانات في المقارنة التالية ↓</a>
 </div></section>
 
+<section class="d-section container" id="service-compare">
+ <div class="d-heading"><div><span class="eyebrow">الزيت والصيانة · مقارنة مباشرة</span><h2>مش كل غيار… نفس الموعد.</h2></div><p>الكمية غير الدورية، وأول غيار غير باقي الغيارات.<br>نص المرجع ظاهر، وحدود تطبيقه ظاهرة.</p></div>
+ <div class="d-service-takeaway"><h3>إيه الفرق العملي؟</h3><p>مرجع فيدل يقول كل 1,000 كم؛ بائع EVO يعلن 5,000 كم ومرتين سنويًا. ده فرق في عدد مرات تغيير الزيت المعلن، لكنه مش مقارنة مصنع موحدة ولا إثبات إن صيانة EVO كلها أرخص. <a href="https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf" target="_blank" rel="noopener">دليل فيدل ↗</a> · <a href="https://www.amanstores.com/en/scooter-sym-jet-14-evo-150-cc-59918/" target="_blank" rel="noopener">إعلان EVO ↗</a></p></div>
+ <div class="d-pair"><label>قارن الصيانة<select id="d-service-left"><option value="fiddle">فيدل 3</option><option value="dd">Jet 14 DD</option><option value="evo">Jet 14 EVO</option><option value="x">Jet X</option></select></label><label>مع<select id="d-service-right"><option value="evo">Jet 14 EVO</option><option value="fiddle">فيدل 3</option><option value="dd">Jet 14 DD</option><option value="x">Jet X</option></select></label></div>
+ <div class="d-matrix d-service-table" id="d-service-table"></div>
+ <p class="d-caption">المواعيد والكميات هنا مقارنة أدلة، وليست تعليمات تعبئة. DD وX بلا جدول مصري مطابق متحقق؛ لا نخمنهما من تشابه الاسم. فيدل: عرضنا جدول 150 مع تعارض النص العام بدل إخفائه. <a href="https://www.symegypt.com/service" target="_blank" rel="noopener">اطلب تأكيد مركز الخدمة لنسختك ↗</a></p>
+ <details class="d-note"><summary>باقي الصيانات: إيه فحص وإيه تغيير فعلًا؟</summary>
+  <p>الآتي من جدول فيدل المرجعي ص23 فقط؛ لا يُنقل إلى الثلاثة الآخرين ولا يثبت شروط الضمان المصري. I = فحص، C = تنظيف، R = تغيير. <a href="https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf" target="_blank" rel="noopener">جدول المصنع المرجعي ↗</a></p>
+  <div class="d-service-items"><article><h4>فلتر الهواء</h4><p>فحص 300 كم؛ تنظيف 1,000؛ الورقي تغيير 6,000 كم. سعر العنصر غير سعر العلبة الكاملة.</p></article><article><h4>السير والبكر</h4><p>فحص 6,000 كم؛ تغيير 12,000 كم في المرجع. الفحص مش معناه شراء سير جديد كل زيارة.</p></article><article><h4>البوجيه</h4><p>فحص 300 ثم 3,000 كم؛ تغيير 12,000 كم في المرجع. لم تثبت هنا تسعيرة بوجيه مطابق لكل النسخ.</p></article><article><h4>الفرامل والمصفاة</h4><p>الفرامل فحص 300 ثم 1,000 كم؛ مصفاة الزيت تنظيف 300 و6,000. لا موعد تغيير تيل ثابت مستنتج من الفحص.</p></article></div>
+  <p>DD وEVO وX: يلزم جدول مطابق يحدد فلتر الهواء، البوجيه، السير والبكر، زيت التروس، الفرامل وسائلها، وضبط الصبابات إن نص عليه الدليل. اطلب لـEVO السائل أيضًا موعد فحص وتغيير سائل التبريد؛ لم نعثر على جدول محلي مطابق يتيح تسعير هذه البنود سنويًا. <a href="https://www.symegypt.com/service" target="_blank" rel="noopener">قناة الخدمة ↗</a></p>
+ </details>
+ <div class="d-oil-budget"><div class="d-heading"><div><span class="eyebrow">افهم أثر الدورية على جيبك</span><h3>ميزانية الزيت وحده، مش صيانة كاملة.</h3></div><p>حساب لفرضيتين، لا تعليمات تغيير لأي موديل.</p></div>
+  <div class="d-oil-inputs"><label>مسافة سنوية · كم<input id="d-oil-km" type="number" min="0" value="12000" step="1" inputmode="numeric"></label><label>عبوة الزيارة · ج.م<input id="d-oil-price" type="number" min="0" value="510" step="0.01" inputmode="decimal"></label><label>مصنعية الزيارة · ج.م<input id="d-oil-labor" type="number" min="0" placeholder="غير موثقة، اختياري" step="0.01" inputmode="decimal"></label></div>
+  <p class="d-caption">510 ج.م سعر عبوة NGEN 7 10W-40 المتاحة لدى Motul، لا توصية باستخدامها ولا إثبات ملاءمتها للمحركات الأربعة. عدّل السعر لزيت نسختك المعتمد. نفترض شراء عبوة واحدة لكل مرة، لا بيع الزيت بالمللي. <a href="https://motulegypt.com/product/motul-ngen-7-10w-40-4t/" target="_blank" rel="noopener">مرجع العبوة ↗</a></p>
+  <div id="d-oil-results" class="d-oil-results" aria-live="polite"></div>
+  <p class="d-caption">حسب المسافة فقط: كم السنة ÷ الدورية × تكلفة الزيارة. كسور الدورات مخصص ميزانية نسبي، مش عدد زيارات فعلية أو فاتورة السنة. لا يشمل أول غيار التليين، حدود الزمن، التروس، الفلاتر، السير، سوائل أو قطع أخرى؛ ولا يُضاف تلقائيًا لإجمالي التشغيل.</p>
+ </div>
+ <div class="d-request"><div><h3>الخانات الناقصة؟ اطلبها في رسالة واحدة.</h3><p>طلب بالـ15 كود، وبطارية DD وتيل وفلتر EVO، وجدول الزيت ومصنعية كل موديل. التنزيل فقط؛ لن نرسل رسالة بالنيابة عنك.</p><a href="https://www.symegypt.com/service" target="_blank" rel="noopener">قناة خدمة SYM ↗</a></div><button class="d-action" id="d-download-request">تنزيل طلب التسعير والصيانة</button></div>
+</section>
 <section class="d-section container" id="buycompare"><div class="d-heading"><div><span class="eyebrow">فرق الشراء يستاهل؟</span><h2>فلوسك الزيادة رايحة فين؟</h2></div><p>مقارنة قائمة واحدة، مش خلط عروض ونسخ.</p></div><div class="d-tradeoffs" id="d-tradeoffs"></div><details class="d-note"><summary>عروض البائعين والمواصفات بالتفصيل</summary><p>كل عروض البائعين، اختلاف النسخ، ومصادر المواصفات محفوظة في البحث التفصيلي. <a href="#prices">افتح سجل الأسعار ↓</a> · <a href="#comparison">المواصفات والنسخ ↓</a></p></details></section>
 </div>
 <details class="archive" id="archive"><summary>افتح الكتالوج والمواصفات والمصادر التفصيلية</summary>

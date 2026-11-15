@@ -2,6 +2,68 @@
 
 نسخة بحثية عربية بتاريخ رصد 15 نوفمبر 2026، للسوق المصري وبالجنيه المصري. الأسعار لقطات منشورة وليست عروضًا ملزمة، ومواصفات البائع ليست شهادة مطابقة للنسخة التي ستستلمها.
 
+<!-- FRESH-START -->
+## تحديث الأسعار والصيانة: تحقق 15 نوفمبر 2026
+
+هذا القسم هو الأحدث عند تعارضه مع لقطات الرصد السابقة. الأسعار أسعار إدراج وقت الفحص، والتوفر وصف الموقع لا اتصال بالمخزن ولا حجز؛ التوافق غير محسوم حيث نذكر ذلك.
+
+### أسعار صفحات المنتجات التي أُعيد فحصها
+
+|المنتج|السعر ج.م|التوفر المعلن|البائع وحدود الدليل|
+|---|---|---|---|
+|سير 860 · Jet 14 / Jet X|1683.11 [صفحة المنتج](https://stores.wheels-scooters.com/product/cvt-belt-860-for-sym-s-sr-st-jet14jet-x-%d8%b3%d9%8a%d8%b1-%d8%b3%d8%ad%d8%a8/)|2 معلنة بالمخزون [صفحة المنتج](https://stores.wheels-scooters.com/product/cvt-belt-860-for-sym-s-sr-st-jet14jet-x-%d8%b3%d9%8a%d8%b1-%d8%b3%d8%ad%d8%a8/)|Wheels: DD / X بحسب إعلان البائع؛ لا كود مصنع منشور يثبت المطابقة. ليس سير EVO تلقائيًا. [صفحة المنتج](https://stores.wheels-scooters.com/product/cvt-belt-860-for-sym-s-sr-st-jet14jet-x-%d8%b3%d9%8a%d8%b1-%d8%b3%d8%ad%d8%a8/)|
+|غيار فلتر هواء · Jet 14 / Jet X|276.6 [صفحة المنتج](https://stores.wheels-scooters.com/product/air-filter-symphony-s-sr-jet14-jetx-%d8%ba%d9%8a%d8%a7%d8%b1-%d9%81%d9%84%d8%aa%d8%b1-%d9%87%d9%88%d8%a7%d8%a1/)|غير متوفر صراحة [صفحة المنتج](https://stores.wheels-scooters.com/product/air-filter-symphony-s-sr-jet14-jetx-%d8%ba%d9%8a%d8%a7%d8%b1-%d9%81%d9%84%d8%aa%d8%b1-%d9%87%d9%88%d8%a7%d8%a1/)|Wheels: العنصر فقط، وليس العلبة. توافق البائع لـDD / X لا يثبت ملاءمته لـEVO. [صفحة المنتج](https://stores.wheels-scooters.com/product/air-filter-symphony-s-sr-jet14-jetx-%d8%ba%d9%8a%d8%a7%d8%b1-%d9%81%d9%84%d8%aa%d8%b1-%d9%87%d9%88%d8%a7%d8%a1/)|
+|بطارية SYM YTX7A-BS · 8Ah|923.95 [صفحة المنتج](https://stores.wheels-scooters.com/product/sym-battery-ytx7a-bs-8ah-scooter-motorcycle-battery/)|غير متوفرة صراحة [صفحة المنتج](https://stores.wheels-scooters.com/product/sym-battery-ytx7a-bs-8ah-scooter-motorcycle-battery/)|Wheels: مرشح للاستعلام فقط. الصفحة لا تثبت توافق DD؛ لم نملأ بها خانة بطاريته. [صفحة المنتج](https://stores.wheels-scooters.com/product/sym-battery-ytx7a-bs-8ah-scooter-motorcycle-battery/)|
+|بطارية BS BTX7A SLA|1650 [صفحة المنتج](https://stores.wheels-scooters.com/product/bs-btx7a-sla-battery-for-motorcycles-scooters-doesnt-need-maintanance-made-in-france/)|2 معلنة بالمخزون [صفحة المنتج](https://stores.wheels-scooters.com/product/bs-btx7a-sla-battery-for-motorcycles-scooters-doesnt-need-maintanance-made-in-france/)|Wheels: التوافق مع DD غير مثبت. الضمان متعارض: 6 أشهر بجوار السعر و3 في الوصف؛ اطلب تأكيدًا مكتوبًا. [صفحة المنتج](https://stores.wheels-scooters.com/product/bs-btx7a-sla-battery-for-motorcycles-scooters-doesnt-need-maintanance-made-in-france/)|
+|Motul NGEN 7 · 10W-40 · 1L|510 [صفحة المنتج](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|متوفر وفق الصفحة [صفحة المنتج](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|Motul Egypt: سعر عبوة فقط، وليس سعر صيانة أو اعتماد ملاءمة للموديلات الأربعة. [صفحة المنتج](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|
+|Scooter Expert · 10W-40 MB · 1L|430 [صفحة المنتج](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|غير متوفر؛ السعر في بيانات الصفحة [صفحة المنتج](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|Motul Egypt: 430 في بيانات المنتج المنظمة؛ غير ظاهر في منطقة الشراء وقت الفحص. أُسقط السعر القديم 580؛ ليس عرض شراء متاحًا. [صفحة المنتج](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|
+|Scooter Power · 10W-30 MB · 1L|600 [صفحة المنتج](https://motulegypt.com/product/motul-scooter-power-10w-30-mb-4t/)|غير متوفر؛ السعر في بيانات الصفحة [صفحة المنتج](https://motulegypt.com/product/motul-scooter-power-10w-30-mb-4t/)|Motul Egypt: 600 في بيانات المنتج المنظمة، لا سعر ظاهر متاح للطلب. لا نعمم مواصفة المنتج على كل المحركات. [صفحة المنتج](https://motulegypt.com/product/motul-scooter-power-10w-30-mb-4t/)|
+|مجموعة جر أمامي EVO · بديل تجاري|1100 [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053?category=2378)|Not Available For Sale وفق الصفحة [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053?category=2378)|Rides N Parts: After Market بحسب البائع، وليس أصلي SYM. لا يعوّض سعر بلاطة شحن أو جنط أو سير مختلف. [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053?category=2378)|
+
+لا يملأ سعر سير860 خانة بطارية DD، ولا يحوّل السعر وحده سلة DD إلى سلة مكتملة. غيار فلتر Jet14/X لا يُنسب إلى EVO من تشابه الاسم، والأسعار الجديدة لا تُكتب فوق كود أصلي مختلف في الكتالوج.
+
+### مقارنة الزيت والصيانة دون خلط النسخ
+
+|البند|فيدل 3|DD كاربراتير|EVO 150|Jet X المحلي|
+|---|---|---|---|---|
+|درجة الدليل|دليل مصنع مرجعي؛ XA15W 150؛ لم تثبت مطابقته للضمان المصري. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|جدول محلي غير متحقق؛ لا ننقل جدول EFI أو 125 إلى DD كاربراتير.|تصريح بائع محلي؛ IBYCO وأمان؛ ليس كتيب ضمان. [IBYCO: EVO المصري](https://ibycoeg.com/ar/product/sym-jet-14-evo-150cc/)|جدول محلي غير متحقق؛ لا ننقل كتيب Jet X الأجنبي السائل إلى المحلي.|
+|أول غيار زيت|300 كم؛ بالدليل المرجعي، ص14 و23. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|لم يثبت|لم يثبت؛ 5,000 كم لا تثبت موعد غيار التليين.|لم يثبت|
+|الغيارات التالية|كل 1,000 كم؛ نص الدليل المرجعي، لا اعتماد ضمان محلي. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|لم تثبت|5,000 كم / مرتان سنويًا؛ صياغة البائع؛ أكّد أيهما أسبق وظروف الاستخدام. [أمان: EVO 150](https://www.amanstores.com/en/scooter-sym-jet-14-evo-150-cc-59918/)|لم تثبت|
+|كمية غيار المحرك|0.85 لتر مرجعيًا؛ جدول XA15W ص26؛ النص العام ص14 يقول 0.8 لتر. يوجد تعارض. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|لم تثبت|800 مل معلنة؛ البائع لا يوضح هل سعة تغيير أم إجمالي. [IBYCO: EVO المصري](https://ibycoeg.com/ar/product/sym-jet-14-evo-150cc/)|لم تثبت|
+|السعة الإجمالية|0.95 لتر مرجعيًا؛ ص26؛ ليست كمية الغيار. النص العام يعطي إجماليًا مختلفًا. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|لم تثبت|لم تُحسم؛ لا نحوّل 800 مل إلى غيار وإجمالي معًا.|لم تثبت|
+|مواصفة الزيت|SAE 10W-30؛ API SH/CD أو أفضل حسب ص14؛ أكّد كتيب نسختك. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|لم تثبت محليًا|لم تثبت محليًا؛ فترة 5,000 كم لا تحدد لزوجة الزيت.|لم تثبت محليًا|
+|زيت التروس|300 ثم 5,000 كم؛ أو 5 أشهر بالمرجع. ص26: غيار170 مل / إجمالي180؛ النص العام90–100 مل مختلف. [دليل Fiddle III: نسخة مرجعية](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)|لم يثبت موعده وكميته|لم يثبت موعده وكميته|لم يثبت موعده وكميته|
+|تكلفة زيارة الصيانة|عرض مركز خدمة مطلوب؛ لا مصنعية منشورة موثقة لدينا.|عرض مركز خدمة مطلوب|عرض مركز خدمة مطلوب|عرض مركز خدمة مطلوب|
+
+في دليل فيدل المرجعي ص23: فلتر الهواء فحص300 وتنظيف1000 وتغيير الورقي6000كم؛ السير والبكر فحص6000 وتغيير12000؛ البوجيه فحص300/3000 وتغيير12000؛ فحص الفرامل300/1000؛ تنظيف مصفاة الزيت300/6000. الفحص والتنظيف ليسا شراء قطعة جديدة، وهذا جدول مرجعي غير مثبت للضمان المصري وليس جدول الثلاثة الآخرين. [دليل Fiddle III](https://motorbashi.com/wp-content/uploads/2022/02/FIDDLEIII.pdf)
+
+السعر510 لعبوة NGEN7 ليس تكلفة صيانة ولا اعتماد زيت للمحركات الأربعة. حاسبة الزيت تقارن فرضيتين حسب المسافة فقط: المسافة السنوية÷الدورية×(سعر العبوة+مصنعية مدخلة إن عُرفت)، لا تشمل التليين أو الحد الزمني أو المستهلكات الأخرى. [Motul Egypt](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)
+
+### نتيجة إعادة فحص كل الصفوف الخمسة عشر غير المسعّرة
+
+كل الأكواد التالية ما زالت تعرض طلب الاستعلام عن السعر والتوافر بدل سعر منشور؛ لم نحصل على سعر مطابق يمكن توثيقه، ولا يعني ذلك أنها غير متاحة في السوق. [كتالوج SYM Egypt](https://www.symegypt.com/spare-parts)
+
+|الموديل|القطعة|الكود الداخلي|نتيجة التحقق|
+|---|---|---|---|
+|فيدل 3|خرطوم تربو B (عادم بيئة )|`175712`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|فيدل 3|اكس جنط امامي|`446212`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|فيدل 3|جمجمة كاملة|`5310B2SB`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|فيدل 3|جمجمة كاملة|`5310B2WA`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|فيدل 3|صامولة فلانشة 10 مم|`903042`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 DD|وش|`8115111`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 EVO|بلاطة شحن|`3160018`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 EVO|جنط خلفي كامل|`4260a18`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 EVO|جنط امامي كامل|`4460a18`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 EVO|مساعد خلفي يمين|`5240018`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 EVO|مساعد خلفي شمال|`5250018`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet 14 EVO|وردة|`9044218`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet X|مسمار|`9360015`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet X|مسمار 8*45|`9580015`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+|Jet X|مسمار 8*65|`9580115`|استعلام واتساب، لا سعر منشور [الكتالوج](https://www.symegypt.com/spare-parts)|
+
+تظل بطارية DD المطابقة، وتيل EVO وغيار فلتره المنفصل، ومصنعية الصيانة والجداول المحلية المطابقة فجوات معلنة. صفحة الخدمة قناة لطلب تأكيد مكتوب، وليست إثباتًا لأسعار أو مواعيد غير منشورة. [خدمة SYM Egypt](https://www.symegypt.com/service)
+<!-- FRESH-END -->
+
 ## الخلاصة العملية
 
 - **التجهيزات:** اختياري المبدئي EVO 150 إذا ثبت بالمعاينة والفاتورة وجود EFI والتبريد السائل وABS وTCS في المعروض؛ هذه تجهيزات يعلنها البائع المحلي وليست نتيجة فحص مستقل. [IBYCO: EVO المصري](https://ibycoeg.com/ar/product/sym-jet-14-evo-150cc/)
@@ -239,11 +301,11 @@ EVO: إعلان البائع يذكر5000كم أو مرتين سنويًا؛ ه�
 
 EVO: يذكر IBYCO800مل دون حسم هل هي سعة تغيير أم إجمالية، ويذكر5000كم أو مرتين سنويًا. لذلك يظل اعتماد الكمية والمواصفة والموعد من الكتيب المطابق ومركز الخدمة قبل التنفيذ. [IBYCO: EVO المصري](https://ibycoeg.com/ar/product/sym-jet-14-evo-150cc/)
 
-DD وJet X: خانات الموعد والكمية معروضة كغير مؤكدة. اطلب جدولًا مختومًا يشمل الزيت وفلتره أو المصفاة بحسب التصميم، زيت التروس، فلتر الهواء، البوجيه والصبابات إن نص الدليل، CVT والبكر والسير، الفرامل والإطارات، والسائل والتبريد للنسخة السائلة. قائمة الطلب هذه لا تضع مواعيد بديلة من عندنا؛ قناة الدعم مرجع للتواصل. [SYM Egypt: الدعم](https://www.symegypt.com/support)
+DD وJet X: خانات الموعد والكمية معروضة كغير مؤكدة. اطلب جدولًا مختومًا يشمل الزيت وفلتره أو المصفاة بحسب التصميم، زيت التروس، فلتر الهواء، البوجيه والصبابات إن نص الدليل، CVT والبكر والسير، الفرامل والإطارات، والسائل والتبريد للنسخة السائلة. قائمة الطلب هذه لا تضع مواعيد بديلة من عندنا؛ قناة الدعم مرجع للتواصل. [SYM Egypt: الدعم](https://www.symegypt.com/service)
 
 ### 29 · سعر عبوة الزيت ≠ سعر الصيانة
 
-Motul Egypt NGEN7 10W-40 عبوة1لتر بسعر510ج.م وموصوف متوفر؛ Scooter Expert 10W-40 MB عبوة1لتر580ج.م وموصوف غير متوفر وقت الرصد. هذان مرجعا تكلفة منتجين فعليين، لا توصية بأن أحدهما مناسب حتمًا للمحركات الأربعة. [Motul Egypt: NGEN 7](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/) [Motul Egypt: Scooter Expert](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)
+Motul Egypt NGEN7 10W-40 عبوة1لتر بسعر510ج.م وموصوف متوفر؛ Scooter Expert 10W-40 MB عبوة1لتر430ج.م (سعر بيانات منظمة فقط، لا منطقة شراء) وموصوف غير متوفر وقت الرصد. هذان مرجعا تكلفة منتجين فعليين، لا توصية بأن أحدهما مناسب حتمًا للمحركات الأربعة. [Motul Egypt: NGEN 7](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/) [Motul Egypt: Scooter Expert](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)
 
 تكلفة الزيارة = الزيت بالمواصفة والكمية الصحيحتين + قطع ومستهلكات الزيارة + مصنعية + أي ضريبة أو رسوم مثبتة. لم أتحقق من تسعيرة منشورة مطابقة لمصنعية الموديلات الأربعة، فلا أخترع «صيانة بـ600» من سعر العبوة.
 
@@ -320,7 +382,7 @@ EVO150 هو اختياري المبدئي للتجهيزات إذا تأكد ف�
 |بكر فيدل 2 / فيدل 3|399 [نون / Wheels](https://www.noon.com/egypt-ar/clutch-rollers-for-sym-fiddle2-fiddle-3-jet4-orbit2/Z68D5CC39D3FD609B23B8Z/p/)|باقي 2 معلنة [نون / Wheels](https://www.noon.com/egypt-ar/clutch-rollers-for-sym-fiddle2-fiddle-3-jet4-orbit2/Z68D5CC39D3FD609B23B8Z/p/)|تحقق من عدد البكر ووزنه وأبعاده قبل مقارنته بطقم آخر. [نون / Wheels](https://www.noon.com/egypt-ar/clutch-rollers-for-sym-fiddle2-fiddle-3-jet4-orbit2/Z68D5CC39D3FD609B23B8Z/p/)|
 |بكر Jet 14 / Jet X|400 [نون / Wheels](https://www.noon.com/egypt-ar/scooter-clutch-rollers-original-for-sym-symphony-sr-s-st-jet14-jetx/Z165FE86F7F20D9BC757CZ/p/)|باقي 3 معلنة [نون / Wheels](https://www.noon.com/egypt-ar/scooter-clutch-rollers-original-for-sym-symphony-sr-s-st-jet14-jetx/Z165FE86F7F20D9BC757CZ/p/)|قارن عدد القطع والوزن والكود؛ وصف البائع لا يثبت الأصالة مستقلًا. [نون / Wheels](https://www.noon.com/egypt-ar/scooter-clutch-rollers-original-for-sym-symphony-sr-s-st-jet14-jetx/Z165FE86F7F20D9BC757CZ/p/)|
 |زيت Motul NGEN 7 10W-40 1L|510 [Motul Egypt](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|متوفر بالموقع [Motul Egypt](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|مرجع تكلفة عبوة فقط، وليس اعتمادًا لملاءمته لكل محرك أو سعر صيانة. [Motul Egypt](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|
-|زيت Motul Scooter Expert 10W-40 MB 1L|580 [Motul Egypt](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|غير متوفر بالموقع [Motul Egypt](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|مرجع سعري غير قابل للطلب وقت الرصد؛ لا يشمل المصنعية. [Motul Egypt](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|
+|زيت Motul Scooter Expert 10W-40 MB 1L|430 (بيانات منظمة فقط) [Motul Egypt](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|غير متوفر بالموقع [Motul Egypt](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|مرجع سعري غير قابل للطلب وقت الرصد؛ لا يشمل المصنعية. [Motul Egypt](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|
 
 ## ما بقي غير محسوم
 
