@@ -2,6 +2,18 @@
 
 نسخة بحثية عربية بتاريخ رصد 15 نوفمبر 2026، للسوق المصري وبالجنيه المصري. الأسعار لقطات منشورة وليست عروضًا ملزمة، ومواصفات البائع ليست شهادة مطابقة للنسخة التي ستستلمها.
 
+<!-- AUDIT-START -->
+## تدقيق الموقعين: 15 نوفمبر 2026
+
+أُعيد فحص كل صفوف الموديلات الأربعة في كتالوج SYM: 1,136 صفًا، منها 1,121 بسعر مطابق تمامًا لبياناتنا السابقة و15 لا تزال بلا سعر؛ لا اختلاف سعر مثبت في هذه المطابقة. المطابقة بالموديل والكودين، لا بالاسم وحده. [كتالوج SYM Egypt](https://www.symegypt.com/spare-parts)
+
+تتبّع الفحص قسم SYM في Rides N Parts حتى الصفحة20، بالإضافة إلى الصفحة العامة التي أرسلها المستخدم، ثم فُتحت صفحات المنتجات الـ76 ذات الصلة. لا تُعامل أسعار التجاري أو الاسم العام كأكواد أصلية متطابقة؛ التقرير المستقل وCSV التدقيق يحفظان كل الروابط والأسعار والوحدات والتحفظات. [قسم SYM](https://ridesnparts.com/en_US/shop/category/spare-parts-sym-spare-parts-2378) [نهاية الصفحات](https://ridesnparts.com/en_US/shop/category/spare-parts-sym-spare-parts-2378/page/20)
+
+تصحيح مهم: مجموعة جر EVO التجاري تظل بسعر1,100 ج.م شامل الضريبة وفق الصفحة، لكن عبارة Not Available For Sale كانت مخفية بـd-none؛ وصفها سابقًا بأنها غير متاحة غير مسنود. الصحيح أن المخزون غير مؤكد مع ظهور واجهة إضافة للسلة، وليس تأكيد توفر؛ لم تتغير قيمة السعر في دليلنا. [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053)
+
+أسعار الشراء والبنزين والزيت والمتاجر الأخرى لم يُعد تدقيقها ضمن هذه الجولة الخاصة بالموقعين؛ نتائجها السابقة تظل مستقلة ولا تُنسب إلى هذا التدقيق.
+<!-- AUDIT-END -->
+
 <!-- FRESH-START -->
 ## تحديث الأسعار والصيانة: تحقق 15 نوفمبر 2026
 
@@ -18,7 +30,7 @@
 |Motul NGEN 7 · 10W-40 · 1L|510 [صفحة المنتج](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|متوفر وفق الصفحة [صفحة المنتج](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|Motul Egypt: سعر عبوة فقط، وليس سعر صيانة أو اعتماد ملاءمة للموديلات الأربعة. [صفحة المنتج](https://motulegypt.com/product/motul-ngen-7-10w-40-4t/)|
 |Scooter Expert · 10W-40 MB · 1L|430 [صفحة المنتج](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|غير متوفر؛ السعر في بيانات الصفحة [صفحة المنتج](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|Motul Egypt: 430 في بيانات المنتج المنظمة؛ غير ظاهر في منطقة الشراء وقت الفحص. أُسقط السعر القديم 580؛ ليس عرض شراء متاحًا. [صفحة المنتج](https://motulegypt.com/product/motul-scooter-expert-10w-40-mb-4t/)|
 |Scooter Power · 10W-30 MB · 1L|600 [صفحة المنتج](https://motulegypt.com/product/motul-scooter-power-10w-30-mb-4t/)|غير متوفر؛ السعر في بيانات الصفحة [صفحة المنتج](https://motulegypt.com/product/motul-scooter-power-10w-30-mb-4t/)|Motul Egypt: 600 في بيانات المنتج المنظمة، لا سعر ظاهر متاح للطلب. لا نعمم مواصفة المنتج على كل المحركات. [صفحة المنتج](https://motulegypt.com/product/motul-scooter-power-10w-30-mb-4t/)|
-|مجموعة جر أمامي EVO · بديل تجاري|1100 [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053?category=2378)|Not Available For Sale وفق الصفحة [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053?category=2378)|Rides N Parts: After Market بحسب البائع، وليس أصلي SYM. لا يعوّض سعر بلاطة شحن أو جنط أو سير مختلف. [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053?category=2378)|
+|مجموعة جر أمامي EVO · بديل تجاري|1100 [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053)|المخزون غير مؤكد؛ واجهة إضافة للسلة [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053)|Rides N Parts: تصحيح التدقيق: عبارة عدم الإتاحة مخفية وليست دليل نفاد. After Market بحسب البائع، لا أصلي SYM؛ التوافق ومحتويات التجميعة يحتاجان تأكيدًا. [صفحة المنتج](https://ridesnparts.com/en_US/shop/cvt-variator-assy-sym-jet-14-evo-after-market-25053)|
 
 لا يملأ سعر سير860 خانة بطارية DD، ولا يحوّل السعر وحده سلة DD إلى سلة مكتملة. غيار فلتر Jet14/X لا يُنسب إلى EVO من تشابه الاسم، والأسعار الجديدة لا تُكتب فوق كود أصلي مختلف في الكتالوج.
 
